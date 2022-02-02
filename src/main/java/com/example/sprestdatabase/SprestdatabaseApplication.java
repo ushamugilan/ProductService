@@ -3,7 +3,7 @@ package com.example.sprestdatabase;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication //commit 2/4
+@SpringBootApplication //commit 2/5
 public class SprestdatabaseApplication {
 
 	public static void main(String[] args) {
