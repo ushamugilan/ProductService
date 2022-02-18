@@ -3,7 +3,7 @@ package com.example.sprestdatabase;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication //git repo->remotes->origin->configure push->change->username and token from git
+@SpringBootApplication //git repo->remotes->origin->configure push->change->username and token from git rebase1
 public class SprestdatabaseApplication {
 
 	public static void main(String[] args) {
